@@ -9,4 +9,24 @@ DENEMAnalitik kimyada nitel analiz
 2. grup anyonlar sülfat kromat
 3. grup anyonlar kükürt demirsiyanat
 4. grup anyonlar scn klor brom Iyot
-5. grup anyonlar nitrar
+5. grup anyonlar nitrat
+
+# KATYONLARDA NİTEL ANALİZ
+
+*katyonların nitel analizi sürekli olarak çöktürme şeklinde yapılır*
+
+## temel analiz methodları
+
+* katı örneği çözme
+* eritiş
+
+#ANYON ANALİZ METHODLARI
+
+## düzenli olarak çöktürme
+
+* çöktürerek analiz
+
+# KATYONLARIN ANALİZİNDE RENKLER
+
+## renkler
+
